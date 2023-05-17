@@ -139,4 +139,9 @@ Fig.11 (Check Logs)
 <img width="888" alt="Screenshot 2023-05-17 at 10 04 32" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/27d4fef6-760d-4c1f-8329-1b09356a0b91">
 
 Fig.12 (ECR repository Image Pushed)
-Yuppp, we’re done here! Feel free to reach out to me if you have any queries or doubts.
+
+<img width="921" alt="Screenshot 2023-05-17 at 10 05 14" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/1b2d99e6-108c-4471-b006-40f16f9c9f76">
+
+<img width="911" alt="Screenshot 2023-05-17 at 10 05 47" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/49240a19-d97d-413b-9cca-686e297ee337">
+
+Please delete the AWS repo.
