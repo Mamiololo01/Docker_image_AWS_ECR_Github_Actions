@@ -44,11 +44,14 @@ Fig.1 (GitHub Actions Configuration)
 Step:2 Here you can use pre-written workflow templates or you can create your custom workflow. Now, Click on the set-up a workflow yourself (As I’m going to create my own custom workflow)
 
 
+<img width="1138" alt="Screenshot 2023-05-17 at 09 36 11" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/a08bf6bb-4147-4b07-8219-d1f2a0967a91">
+
 Fig.2 (Workflow file)
 Step:3 Write the file name in the input box and then click on the ‘start commit’ and make a successful commit.
 
 Now, you’ve .github/workflow/your_file_name.yml inside your repository. This your_file_name.yml contains the set of instructions that the Workflow will execute. Here deploy.yml is the file that you need:
 
+<img width="750" alt="Screenshot 2023-05-17 at 09 37 49" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/36bcf4f8-12d2-4955-91ad-80d5866631ac">
 
 (Note: This deploy.yml must have a proper indentation and you can make changes according to your choice)
 
