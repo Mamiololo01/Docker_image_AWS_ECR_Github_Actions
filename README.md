@@ -127,11 +127,16 @@ And in case if you get an error in the 5th task, you might have probably messed 
 
 Fig.9 (Completed Workflow action)
 
+<img width="928" alt="Screenshot 2023-05-17 at 10 02 39" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/7ee74771-35ac-4765-96a8-891e5f5ba5f6">
+
 Fig.10 (Build Image task Successful)
 
+<img width="809" alt="Screenshot 2023-05-17 at 10 04 14" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/12177e59-30ab-49a2-94d4-296b2821deb3">
 Fig.11 (Check Logs)
+
 5. Hurrah, everything is done! And that’s it! Now you can also open the ECR Private repository and check for the final image with the latest tag inside it.
 
+<img width="888" alt="Screenshot 2023-05-17 at 10 04 32" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/27d4fef6-760d-4c1f-8329-1b09356a0b91">
 
 Fig.12 (ECR repository Image Pushed)
 Yuppp, we’re done here! Feel free to reach out to me if you have any queries or doubts.
