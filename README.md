@@ -80,7 +80,13 @@ First all of go to the AWS Management Console and search “ECR” in the search
 
 Fig.3 (Create ECR repository)
 
+<img width="1235" alt="Screenshot 2023-05-17 at 09 40 11" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/d54c1e34-6ea2-4121-b001-9680f6c7df21">
+
+<img width="943" alt="Screenshot 2023-05-17 at 09 41 36" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/d4316c06-27d9-42ea-8a36-388280d32b02">
+
 Fig.4 (ECR Repository)
+
+<img width="937" alt="Screenshot 2023-05-17 at 09 41 50" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/41800422-5721-441d-8b21-dbaeba9ac03c">
 
 After creating your ECR repository, go back to your deploy.yml file and edit the field ‘ECR_REPOSITORY’, and enter the name of your ECR_REPOSITORY.
 
