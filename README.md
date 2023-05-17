@@ -96,6 +96,10 @@ In order to access your AWS ECR registry, you’ve to add your AWS secrets (AWS_
 
 Since these are credentials we can’t reveal them in public hence need to set them as Environment Variables which are hidden and secured in the environment. So, go to the setting menu of your repository and in that click on ‘secrets’.
 
+<img width="1252" alt="Screenshot 2023-05-17 at 09 44 47" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/c5c3956b-6745-4bd9-b905-53c44bd0514e">
+
+
+<img width="837" alt="Screenshot 2023-05-17 at 09 46 25" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/36d63907-7a45-4db7-a6b0-33b99aecd4ad">
 
 Fig.5 (GitHub Secrets)
 Then simply add AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY to your IAM user.
