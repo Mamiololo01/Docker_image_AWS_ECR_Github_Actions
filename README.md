@@ -145,3 +145,5 @@ Fig.12 (ECR repository Image Pushed)
 <img width="911" alt="Screenshot 2023-05-17 at 10 05 47" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/49240a19-d97d-413b-9cca-686e297ee337">
 
 Please delete the AWS repo.
+
+<img width="988" alt="Screenshot 2023-05-17 at 10 06 14" src="https://github.com/Mamiololo01/Docker_image_AWS_ECR_Github_Actions/assets/67044030/144986d9-a7c2-47a8-95d7-5e56f53b82ab">
